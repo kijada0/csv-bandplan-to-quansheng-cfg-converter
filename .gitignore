@@ -1,0 +1,8 @@
+# JetBrains IDEs
+.idea/
+
+# VSCode
+.vscode/
+
+# Quansheng cfg file
+*.cxf
