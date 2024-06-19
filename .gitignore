@@ -1,5 +1,6 @@
 # JetBrains IDEs
 .idea/
+__pycache__/
 
 # VSCode
 .vscode/
